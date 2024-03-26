@@ -1,4 +1,4 @@
-## Welcome to Kumar's GitHub Pages
+## Welcome to Kumar's GitHub pages
 
 You can use the [editor on GitHub](https://github.com/KumarBhot/kumarbhot.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
